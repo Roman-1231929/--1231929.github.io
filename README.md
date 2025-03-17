@@ -1,1 +1,26 @@
-
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Резюме Горіна Романа</title>
+    <style>
+        .btn {
+            display: inline-block;
+            background-color: #007BFF;
+            color: #fff;
+            padding: 10px 15px;
+            text-decoration: none;
+            border-radius: 5px;
+            margin: 5px 0;
+        }
+        .btn:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+    <a href="lab2.html" class="btn">Лабораторна робота 2</a>
+</body>
+</html>
+      
